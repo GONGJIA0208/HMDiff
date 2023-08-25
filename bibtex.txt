@@ -1,0 +1,6 @@
+@article{foo2023HMDiff,
+title={Distribution-Aligned Diffusion for Human Mesh Recovery},
+author={Foo, Lin Geng and Gong, Jia and Rahmani, Hossein and Liu, Jun},
+journal={arXiv preprint arXiv:2211.16940},
+year={2023}
+}
